@@ -1,0 +1,13 @@
+{
+    "name": "sophie:dbd/killer_shack_clean",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "location": "sophie:dbd/killer_shack_clean",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

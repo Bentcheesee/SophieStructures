@@ -1,0 +1,13 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 24061220,
+        "separation": 6,
+        "spacing": 32,
+        "spread_type": "triangular"
+    },
+    "structures": [{
+        "structure": "sophie:shrine_structure",
+        "weight": 1
+    }]
+}

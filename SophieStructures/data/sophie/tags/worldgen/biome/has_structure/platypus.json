@@ -1,0 +1,256 @@
+{
+  "values": [
+    "minecraft:badlands",
+    "minecraft:birch_forest",
+    "minecraft:cherry_grove",
+    "minecraft:dark_forest",
+    "minecraft:deep_dark",
+    "minecraft:desert",
+    "minecraft:dripstone_caves",
+    "minecraft:flower_forest",
+    "minecraft:forest",
+    "minecraft:grove",
+    "minecraft:ice_spikes",
+    "minecraft:jungle",
+    "minecraft:meadow",
+    "minecraft:mushroom_fields",
+    "minecraft:old_growth_birch_forest",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga",
+    "minecraft:sunflower_plains",
+    "minecraft:wooded_badlands",
+    {
+      "id": "terralith:alpha_islands",
+      "required": false
+    },
+    {
+      "id": "terralith:ancient_sands",
+      "required": false
+    },
+    {
+      "id": "terralith:arid_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:ashen_savanna",
+      "required": false
+    },
+    {
+      "id": "terralith:basalt_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:birch_taiga",
+      "required": false
+    },
+    {
+      "id": "terralith:blooming_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:brushland",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/andesite_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/crystal_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/deep_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/desert_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/diorite_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/frostfire_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/fungal_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/ice_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/infested_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/underground_jungle",
+      "required": false
+    },
+    {
+      "id": "terralith:cloud_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:desert_canyon",
+      "required": false
+    },
+    {
+      "id": "terralith:desert_oasis",
+      "required": false
+    },
+    {
+      "id": "terralith:forested_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:granite_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:hot_shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:lavender_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:lavender_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:lush_desert",
+      "required": false
+    },
+    {
+      "id": "terralith:moonlight_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:moonlight_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:red_oasis",
+      "required": false
+    },
+    {
+      "id": "terralith:rocky_jungle",
+      "required": false
+    },
+    {
+      "id": "terralith:sakura_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:sakura_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:savanna_badlands",
+      "required": false
+    },
+    {
+      "id": "terralith:shield",
+      "required": false
+    },
+    {
+      "id": "terralith:shield_clearing",
+      "required": false
+    },
+    {
+      "id": "terralith:shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:skylands",
+      "required": false
+    },
+    {
+      "id": "terralith:skylands_autumn",
+      "required": false
+    },
+    {
+      "id": "terralith:skylands_spring",
+      "required": false
+    },
+    {
+      "id": "terralith:skylands_summer",
+      "required": false
+    },
+    {
+      "id": "terralith:valley_clearing",
+      "required": false
+    },
+    {
+      "id": "terralith:warped_mesa",
+      "required": false
+    },
+    {
+      "id": "terralith:white_mesa",
+      "required": false
+    },
+    {
+      "id": "betterend:amber_land",
+      "required": false
+    },
+    {
+      "id": "betterend:dragon_graveyards",
+      "required": false
+    },
+    {
+      "id": "betterend:dust_wastelands",
+      "required": false
+    },
+    {
+      "id": "betterend:empty_aurora_cave",
+      "required": false
+    },
+    {
+      "id": "betterend:empty_end_cave",
+      "required": false
+    },
+    {
+      "id": "betterend:foggy_mushroomland",
+      "required": false
+    },
+    {
+      "id": "betterend:jade_cave",
+      "required": false
+    },
+    {
+      "id": "betterend:lantern_woods",
+      "required": false
+    },
+    {
+      "id": "betterend:neon_oasis",
+      "required": false
+    },
+    {
+      "id": "betterend:umbra_valley",
+      "required": false
+    },
+    {
+      "id": "nullscape:shadowlands",
+      "required": false
+    },
+    {
+      "id": "nullscape:void_barrens",
+      "required": false
+    }
+    ]
+}

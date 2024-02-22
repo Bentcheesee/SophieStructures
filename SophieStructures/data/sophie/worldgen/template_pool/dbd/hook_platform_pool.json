@@ -1,0 +1,13 @@
+{
+    "name": "sophie:dbd/hook_spawns",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "location": "sophie:dbd/hook_platform",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

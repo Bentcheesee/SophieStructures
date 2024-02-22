@@ -1,0 +1,13 @@
+{
+    "name": "sophie:foxden/spawners/spider",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 5,
+        "element": {
+            "location": "sophie:foxden/spawners/spider",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

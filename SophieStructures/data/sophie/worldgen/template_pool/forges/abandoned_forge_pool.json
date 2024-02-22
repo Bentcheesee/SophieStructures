@@ -1,0 +1,13 @@
+{
+    "name": "sophie:forges/abandoned_forge",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "location": "sophie:forges/abandoned_forge",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

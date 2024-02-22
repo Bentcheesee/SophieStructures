@@ -1,0 +1,49 @@
+{
+    "name": "sophie:foxden/general_pool",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 5,
+        "element": {
+            "location": "sophie:foxden/general_rooms/farm/crop1",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 5,
+        "element": {
+            "location": "sophie:foxden/general_rooms/farm/crop2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 5,
+        "element": {
+            "location": "sophie:foxden/general_rooms/farm/crop3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 2,
+        "element": {
+            "location": "sophie:foxden/general_rooms/farm/crop4",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "sophie:foxden/general_rooms/farm/crop5",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

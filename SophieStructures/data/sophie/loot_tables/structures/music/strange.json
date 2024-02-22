@@ -1,0 +1,61 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_ancientruins"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_silence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_shroom"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_soul"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_chorus"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_squiggles"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_shallow"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_mesa_depth"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_anti"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_chop"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_sound"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_reloaded"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "morediscs:music_disc_scopophobia"
+        }
+      ]
+    }
+  ]
+}

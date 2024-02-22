@@ -1,0 +1,21 @@
+{
+    "name": "sophie:random/platypus",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 10,
+        "element": {
+            "location": "sophie:random/a_platypus",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },{
+        "weight": 1,
+        "element": {
+            "location": "sophie:random/perry_the_platypus",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

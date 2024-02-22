@@ -1,0 +1,119 @@
+{
+  "values": [
+    "minecraft:birch_forest",
+    "minecraft:cherry_grove",
+    "minecraft:crimson_forest",
+    "minecraft:dark_forest",
+    "minecraft:flower_forest",
+    "minecraft:forest",
+    "minecraft:grove",
+    "minecraft:meadow",
+    "minecraft:old_growth_birch_forest",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:warped_forest",
+    "minecraft:windswept_forest",
+    {
+      "id": "terralith:amethyst_canyon",
+      "required": false
+    },
+    {
+      "id": "terralith:blooming_plateau",
+      "required": false
+    },
+    {
+      "id": "terralith:blooming_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/underground_jungle",
+      "required": false
+    },
+    {
+      "id": "terralith:cloud_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:haze_mountain",
+      "required": false
+    },
+    {
+      "id": "terralith:lavender_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:lavender_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:mirage_isles",
+      "required": false
+    },
+    {
+      "id": "terralith:moonlight_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:moonlight_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:sakura_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:sakura_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_cherry_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_maple_forest",
+      "required": false
+    },
+    {
+      "id": "terralith:valley_clearing",
+      "required": false
+    },
+    {
+      "id": "betterend:dragon_graveyards",
+      "required": false
+    },
+    {
+      "id": "betterend:megalake_grove",
+      "required": false
+    },
+    {
+      "id": "betternether:crimson_pinewood",
+      "required": false
+    },
+    {
+      "id": "betternether:nether_mushroom_forest",
+      "required": false
+    },
+    {
+      "id": "betternether:old_fungiwoods",
+      "required": false
+    },
+    {
+      "id": "betternether:old_warped_woods",
+      "required": false
+    },
+    {
+      "id": "betternether:upside_down_forest",
+      "required": false
+    },
+    {
+      "id": "betternether:upside_down_forest_cleared",
+      "required": false
+    },
+    {
+      "id": "incendium:withered_forest",
+      "required": false
+    }
+  ]
+}

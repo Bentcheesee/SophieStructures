@@ -1,0 +1,13 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 19011220,
+        "separation": 4,
+        "spacing": 28,
+        "spread_type": "triangular"
+    },
+    "structures": [{
+        "structure": "sophie:dbd/hook_platform_structure",
+        "weight": 1
+    }]
+}

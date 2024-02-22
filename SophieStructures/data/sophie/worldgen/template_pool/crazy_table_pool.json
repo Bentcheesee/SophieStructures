@@ -1,0 +1,13 @@
+{
+    "name": "sophie:random/crazy_table",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 10,
+        "element": {
+            "location": "sophie:random/crazy_table",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "sophie:foxden/special_pool",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 80,
+        "element": {
+            "location": "sophie:foxden/special_rooms/gold",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 65,
+        "element": {
+            "location": "sophie:foxden/special_rooms/warden",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+	{
+        "weight": 1,
+        "element": {
+            "location": "sophie:foxden/special_rooms/suspicious",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+	{
+        "weight": 75,
+        "element": {
+            "location": "sophie:foxden/special_rooms/dead_ends/chests",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+	{
+        "weight": 60,
+        "element": {
+            "location": "sophie:foxden/special_rooms/dead_ends/lantern",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}
